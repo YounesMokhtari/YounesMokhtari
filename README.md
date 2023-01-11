@@ -22,7 +22,6 @@
         alt="YounesMokhtari" height="30" width="40" />
         </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounesMokhtari)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
